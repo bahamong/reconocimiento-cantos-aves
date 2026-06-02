@@ -1,0 +1,10 @@
+librosa>=0.10.2
+numpy>=1.26.4
+scipy>=1.15.0
+matplotlib>=3.9.0
+streamlit>=1.38.0
+requests>=2.32.3
+soundfile>=0.12.1
+tqdm>=4.66.5
+Pillow>=10.4.0
+sounddevice>=0.4.6

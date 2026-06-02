@@ -1,0 +1,43 @@
+# Datos de entrenamiento (demasiado pesados para git — 772 MB)
+data/
+data_processed/
+datos/
+datos_procesados/
+data_processed/
+modelos/
+
+# Modelos serializados (se regeneran con entrenar.py)
+models/*.npy
+modelos/*.npy
+
+# Cache de Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX temporales
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
