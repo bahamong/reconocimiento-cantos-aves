@@ -4,7 +4,6 @@
 > Se ejecuta una sola vez con `python entrenamiento/entrenar.py`.  
 > Produce los vectores E_C constantes que quedan escritos en `umbrales_energia.py`.
 
-
 ### Paso 1 · Leer audio de entrenamiento
  [entrenamiento/entrenar.py:55](entrenamiento/entrenar.py)  
  abre cada grabación `.mp3` del banco, la convierte a mono y la lleva a 22050 Hz.
